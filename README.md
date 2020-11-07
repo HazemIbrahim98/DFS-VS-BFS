@@ -1,4 +1,4 @@
-# DFS vs BFS
+# Depth First Search vs Breadth First Search
 # Depth First Search
 DFS uses a stack to navigate a tree from the deepest points first (leaves) before points at the top levels (except for the points on the route to the leaf) and navigates graphs by prioritizing edge routes. This solution is optimum when the goal is far away from the start node (at leaf nodes or at the edges of a graph). This method makes a decision and then explores all it’s paths making it more suitable for decision trees.
 
